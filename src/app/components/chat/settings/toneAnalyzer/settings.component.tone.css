@@ -1,0 +1,13 @@
+.action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.field {
+    min-width: 48%;
+}
+
+.spinner {
+    max-height: 5vh;
+}
